@@ -1,0 +1,20 @@
+{
+    "Author": "jeffbow",
+    "ContentSize": 3033,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-workflow-to-schedule-stopping-of-all-azure-virtual-machines/master/Stop-AllAzureVM.ps1",
+    "DownloadCount": 8051,
+    "Id": "Azure-Automation-Workflow-c5900f99",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 546,
+    "RaterCount": 3,
+    "Rating": 4.7,
+    "ReleaseDate": "2014-10-8T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Use this workflow in Azure Automation to schedule your Azure Virtual Machines to stop and deallocate at a specific time of day.  Good for managing test environments created under MSDN subscriptions.  Use in conjunction with the Start-AllAzureVM.ps1.",
+    "Title": "Azure Automation Workflow to Schedule stopping of all Azure Virtual Machines",
+    "UpdatedDate": "2015-3-30T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-workflow-to-schedule-stopping-of-all-azure-virtual-machines",
+    "UserTags": "VM Lifecycle Management"
+}
